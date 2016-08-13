@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+current_path=$(pwd)
+
+build_cmd=$1
+
+
+echo $current_path
+
+echo $build_cmd
+ # . -w -s Test -c DEBUG  -o /Users/zky/Desktop/ipa-build -n y
+svn://zhikuiyu@svn.365jiating.com/com/roobo/smartroobo/Master/Personal/App/FamilyClient_1.0.20.apk

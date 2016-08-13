@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "开始更新"
+svn export svn://zhikuiyu@svn.365jiating.com/com/roobo/smartroobo/IosApp/resource/Test/Test
+echo "更新结束"
